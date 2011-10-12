@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Mass Delete</fullName>
+    <types>
+        <members>MassDelete</members>
+        <members>MassDelete/salesforce_mass_delete_configuration_guidepdf.pdf</members>
+        <name>Document</name>
+    </types>
+    <types>
+        <members>Account.Mass_Delete</members>
+        <members>Asset.Mass_Delete</members>
+        <members>Campaign.Mass_Delete</members>
+        <members>Case.Mass_Delete</members>
+        <members>Contact.Mass_Delete</members>
+        <members>Contract.Mass_Delete</members>
+        <members>Event.Mass_Delete</members>
+        <members>Lead.Mass_Delete</members>
+        <members>Opportunity.Mass_Delete</members>
+        <members>OpportunityLineItem.Mass_Delete</members>
+        <members>Product2.Mass_Delete</members>
+        <members>Solution.Mass_Delete</members>
+        <name>WebLink</name>
+    </types>
+    <version>20.0</version>
+</Package>
